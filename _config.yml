@@ -4,7 +4,7 @@ bio:                'i am visitor project'
 description:        "offical website for the i am visitor project"
 locale:             en_US
 baseurl: "/visitor-website" # the subpath of your site, e.g. /blog
-url: "https://i-am-visitor.github.io/" # the base hostname & protocol for your site
+url: "https://i-am-visitor.github.io" # the base hostname & protocol for your site
 #url: "https://localhost"
 
 defaults:
